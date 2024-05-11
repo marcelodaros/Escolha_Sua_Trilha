@@ -1,5 +1,5 @@
 # Escolha_Sua_Trilha
-Protótico de um ChatBot para ajudar pessoas a encontrarem trilha de longo curso no Brasil e ajudar no planejamento dessa aventura.
+Protótipo de um ChatBot para ajudar pessoas a encontrarem trilha de longo curso no Brasil e ajudar no planejamento dessa aventura.
 O Brasil possui muitas trilhas e esse projeto visa melhorar divulgação dessas trilhas, utlizando como base os documentos do
 Ministério da Turismo sobre as trilha de Longo Curso.
 
